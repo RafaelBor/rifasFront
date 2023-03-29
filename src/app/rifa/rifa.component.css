@@ -1,0 +1,39 @@
+img{
+   width: 100% !important;
+   height: 100% !important;
+}
+
+.contenedor-imagen{
+  
+    height: 400px !important;
+}
+
+.seccion-imagenes{
+    height: 400px;
+ 
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+
+.titulo h3{
+   
+}
+
+.titulo svg{
+    color: #FECE3E;
+    margin: 0px 20px;
+}
+
+.prueba{
+    position: fixed;
+    border: 2px solid black;
+    background-color: red;
+}
